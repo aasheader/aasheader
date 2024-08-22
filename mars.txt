@@ -1,1 +1,3 @@
 I went to Mars and all I got was this crappy .txt file.
+
+I'm editing this in the TextEditor as I can't get nano to work. I'll try again later.
